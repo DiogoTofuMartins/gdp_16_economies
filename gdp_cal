@@ -3,7 +3,7 @@ plt.rcParams['figure.figsize'] = (11,6)
 
 OWID_URL = "https://ourworldindata.org/grapher/gdp-per-capita-maddison-project-database.csv"
 
-developed_16 = ["USA","GBR","FRA","DEU","CAN","AUS","SWE","NOR","NLD","BEL","CHE","DNK","FIN","ITA","JPN","NZL"]
+developed_16 = ["GBR","FRA","DEU","DNK","BEL","NLD","ESP","ITA","PRT","SWE","AUT","USA","CAN","AUS","NZL","JPN"]
 portugal = "PRT"
 
 # --- Download e leitura ---
